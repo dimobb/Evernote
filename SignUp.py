@@ -1,5 +1,4 @@
 from selenium import webdriver
-
 import random
 
 driver = webdriver.Chrome("C:\\Users\\dbabich\\AppData\Local\\Programs\\Python\\Python35-32\\selenium\\webdriver\\chromedriver.exe")
